@@ -1,6 +1,7 @@
 .search {
-    background-color: #2b3566;
+    background-color: #FFB6C1;
     padding: 2rem;
+    opacity: 90%;
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
@@ -11,7 +12,8 @@
 }
 
 .search p {
-    color: #9da5d1;
+    color: #000000;
+    font-weight: 600;
 }
 
 .search_container {
@@ -28,6 +30,6 @@
 }
 
 .search_container button {
-    background-color: #0e1129;
+    background-color: #ffffff;
     cursor: pointer;
 }
